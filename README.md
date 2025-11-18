@@ -31,4 +31,5 @@ Krizhevsky, Learning Multiple Layers of Features from Tiny Images (2009).
 # Como executar o projeto localmente
 
 pip install -r requirements.txt
+
 streamlit run app.py
