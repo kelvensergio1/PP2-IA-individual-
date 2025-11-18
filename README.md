@@ -1,4 +1,3 @@
-# PP2-IA-individual-
 # Projeto Assistido 2 — Classificação de Imagens com Deep Learning (CIFAR-10)
 
 Este projeto implementa uma rede neural convolucional (CNN) treinada no dataset **CIFAR-10**, capaz de classificar imagens em 10 categorias:
